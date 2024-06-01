@@ -1,0 +1,36 @@
+h2{
+    text-align: center;
+}
+.form{
+    text-align: center;
+    
+        background-color: #7b95ad;
+        height: 300px;
+        width: 1200px;
+        text-align: center;
+        padding: 10px;
+    
+}
+
+.form{
+    background-color: #7b95ad;
+    height: 300px;
+    margin: 5px;
+    
+    text-align: center;
+    
+    width: 100%;
+   justify-content: center;
+   display: flex;
+   align-items: center;
+   padding-right: 5px;
+   border-radius: 10px;
+   box-shadow: 10px 10px 5px lightblue;
+}
+.name,.number{
+    size: 50;
+    text-align: center;
+    
+}
+
+
